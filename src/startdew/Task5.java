@@ -9,15 +9,6 @@ package startdew;
  *
  * @author user
  */
-public class StartDew {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        Task1 task1 = new Task1();
-        task1.run();
-        
-    }
+class Task5 {
     
 }
